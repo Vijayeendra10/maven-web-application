@@ -51,7 +51,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Kulkarni Technologies - Consultant, Training and Development Center.</p>
+<p align=center>Kulkarni Technologies,Vijayapur - Consultant, Training and Development Center.</p>
 <p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
 
 </body>
